@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpIntermediate", "CSharpIntermediate\CSharpIntermediate.csproj", "{CDD9A3B8-CFC3-4199-921E-3CE1E0C9EAF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatchExercise", "StopWatchExercise\StopWatchExercise.csproj", "{2B0CFD31-5458-4D56-B8BD-081CB707915B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CDD9A3B8-CFC3-4199-921E-3CE1E0C9EAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDD9A3B8-CFC3-4199-921E-3CE1E0C9EAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDD9A3B8-CFC3-4199-921E-3CE1E0C9EAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDD9A3B8-CFC3-4199-921E-3CE1E0C9EAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0CFD31-5458-4D56-B8BD-081CB707915B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0CFD31-5458-4D56-B8BD-081CB707915B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0CFD31-5458-4D56-B8BD-081CB707915B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0CFD31-5458-4D56-B8BD-081CB707915B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B265BA35-B1F5-4733-9319-0624A63E764A}
+		SolutionGuid = {D9A65BAF-B409-40FE-8A63-103C34E6F88C}
 	EndGlobalSection
 EndGlobal

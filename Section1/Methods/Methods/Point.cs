@@ -19,6 +19,14 @@ namespace Methods
             this.Y = y;
         }
 
+        public void Move(Point NewLocation)
+        {
+            this.X = NewLocation.X;
+            this.Y = NewLocation.Y;
+        }
+
+
+
         public void Move(Point newLocation)
         {
             if (newLocation == null)
