@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2B0CFD31-5458-4D56-B8BD-081CB707915B}</ProjectGuid>
+    <ProjectGuid>{894F8E05-FB19-47AF-A06D-C867E9631294}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StopWatchExercise</RootNamespace>
-    <AssemblyName>StopWatchExercise</AssemblyName>
+    <RootNamespace>Inheritance</RootNamespace>
+    <AssemblyName>Inheritance</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,10 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Post.cs" />
+    <Compile Include="PresentationObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stopwatch.cs" />
+    <Compile Include="Text.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
